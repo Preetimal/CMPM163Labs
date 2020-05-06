@@ -1,0 +1,9 @@
+
+
+https://drive.google.com/open?id=1KK8cN6mg7OaLrM9qSTG86uHh1fUhv3-C
+
+https://drive.google.com/open?id=18MzF6Oq5p3s_UAPbNNZC0uCcnIiZ1BC4
+
+https://drive.google.com/open?id=1XAF50dCl83ML_m-282FcVSb-05gn-z06
+
+I decided to make the custom explosion spiral and I did it by changing the acceleration of the x and y direction by making the acceleration in a spiral manner by multiplying a number near 2pi(6.28 in my case) to the x and y parameter of acceleration.
